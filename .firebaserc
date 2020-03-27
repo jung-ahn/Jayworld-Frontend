@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "jayworld": {
+      "hosting": {
+        "jayword-front": [
+          "jayworld"
+        ]
+      }
+    }
+  }
+}

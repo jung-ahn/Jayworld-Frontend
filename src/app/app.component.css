@@ -1,0 +1,17 @@
+.alert {
+    position: absolute;
+    top: 75px;
+    width: 100%;
+  }
+  
+  .connecting_overlay {
+    font-size: 25px;
+    left: 0;
+    line-height: 200px;
+    margin-top: -50px;
+    position: absolute;
+    text-align: center;
+    top: 50%;
+    width: 100%;
+    font-weight: bold;
+  }

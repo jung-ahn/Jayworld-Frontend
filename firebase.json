@@ -1,0 +1,19 @@
+{
+  "hosting": [
+    {
+      "target": "jayword-front",
+      "public": "dist/jayword-front",
+      "ignore": [
+        "firebase.json",
+        "**/.*",
+        "**/node_modules/**"
+      ],
+      "rewrites": [
+        {
+          "source": "**",
+          "destination": "/index.html"
+        }
+      ]
+    }
+  ]
+}

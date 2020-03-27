@@ -1,0 +1,19 @@
+
+@import "https://bootswatch.com/4/flatly/bootstrap.min.css";
+@import "https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css";
+
+
+body {
+  background-color: #f4f6f6;
+}
+
+a {
+  cursor: pointer;
+}
+
+.help-block{
+  color: rgb(202, 88, 88);
+}
+
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
